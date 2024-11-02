@@ -320,7 +320,7 @@ footer a{
 
 @media screen and (min-width:320px) and (max-width: 1000px) {
     .header{
-        height: 90px;
+        height: 85px;
         width: 100%;
         display: flex;
         border: solid #e4e6ea 1px;
@@ -344,7 +344,7 @@ footer a{
      }
      .section1{
         justify-content: center;
-        margin-left: 35px;
+        margin-left: 32px;
         margin-top: 40px;
         font-size: medium;
         font-weight: 500;
@@ -358,7 +358,7 @@ footer a{
         color:#0c0c0c;
     }
     .section1 button{
-        width: 20%;
+        width: 25%;
         border-radius: 8px;
         text-align: center;
         background-color: #c7c7c3;
@@ -368,7 +368,7 @@ footer a{
         border: none;
     }
     .pick img{
-        margin-left: 90px;
+        margin-left: 95px;
         margin-top: 20px;
         width: 50%;
         
@@ -378,7 +378,7 @@ footer a{
         display: grid;
         position: relative;
         gap: 1px;
-        margin-left: 8px;
+        margin-left: 10px;
         margin-top: 20px;
         grid-template-columns: repeat(3,1fr);
         
@@ -471,7 +471,7 @@ footer a{
             grid-template-columns: repeat(3,1fr);
             flex-wrap: wrap;
             gap: 1px;
-            margin-left: 8px;
+            margin-left: 10px;
             margin-top: 10px;
 
             
